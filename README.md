@@ -1,3 +1,6 @@
 # Distributed treatments
 
-`brew install open-mpi`
+Mac : 
+
+- `brew install open-mpi`
+- `conda install -c conda-forge mpi4py openmpi`
